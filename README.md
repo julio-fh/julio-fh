@@ -25,3 +25,4 @@ Desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS 
 ### 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/juliosilvafilho/)
 - [WhatsApp](https://wa.me/5586994051636)
+- juliosilvafh@gmail.com
