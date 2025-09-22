@@ -20,7 +20,8 @@ Desenvolvimento e instalação de projetos de CFTV.
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
 
 ### 💾 Projetos desenvolvidos
-Desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS e Javascript puro sem depender de nenhuma framework. Conheça o projeto: [Memory 🧠](https://github.com/julio-fh/memory)
+- Desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS e Javascript puro, sem depender de nenhuma framework. Conheça o projeto: [Memory 🧠](https://github.com/julio-fh/memory)
+- Sistema de flashcards para estudos. Clique aqui para acessar o projeto: [flashflow 📚](https://julio-fh.github.io/studycards/)
 
 ### 📬 Contato
 - [LinkedIn](https://www.linkedin.com/in/juliosilvafilho/)
