@@ -19,7 +19,7 @@ Desenvolvimento e instalação de projetos de CFTV.
 ![HTML](https://img.shields.io/badge/-css3-000?style=flat&logo=css)
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
 
-### 💾 Projetos desevolvidos
+### 💾 Projetos desenvolvidos
 Desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS e Javascript puro sem depender de nenhuma framework. Conheça o projeto: [Memory 🧠](https://github.com/julio-fh/memory)
 
 ### 📬 Contato
